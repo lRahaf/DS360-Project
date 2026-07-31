@@ -8,5 +8,5 @@ and configured hostnames
 
 ## Update 2 - LAN connections
 connected all end devices to switches and switches to routers
-Cable types used:
+## Cable types used:
 - copper straight through 
