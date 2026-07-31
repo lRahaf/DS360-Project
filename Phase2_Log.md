@@ -10,3 +10,7 @@ and configured hostnames
 connected all end devices to switches and switches to routers
 ## Cable types used:
 - copper straight through 
+
+## Update 3 - IP adrdress assignment
+- Assigned IP addresses to all required devices
+- verified that the addressing matches the project requirements
