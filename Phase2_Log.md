@@ -14,3 +14,14 @@ connected all end devices to switches and switches to routers
 ## Update 3 - IP adrdress assignment
 - Assigned IP addresses to all required devices
 - verified that the addressing matches the project requirements
+
+## Update 4 - WAN Connection
+- Connected Router 1 and Router 2 using Serial (it was done in update 3)
+- Configured DTE/DCE and clock rate
+
+## Routing
+- Configured static routes
+
+## Connectivity Test
+- Tested WAN 1 ↔ WAN 2 using ping
+- Achieved 0% packet loss
